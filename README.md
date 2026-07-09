@@ -14,7 +14,3 @@ A concurrent computer vision and data-logging pipeline engineered to process liv
 - **Libraries:** OpenCV, Ultralytics (YOLOv8)
 - **Database:** SQLite
 - **Concurrency:** Python Threading Library
-
-## Future Enhancements
-- Transition local SQLite logging to a centralized PostgreSQL instance for scalable multi-camera setups.
-- Implement automated analytical dashboards to track detection frequency and alert latency.
